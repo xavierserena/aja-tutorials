@@ -7,3 +7,4 @@ Google Slides: [Intro to Python & Programming](https://docs.google.com/presentat
 - Lesson 2 (Data Types): https://mybinder.org/v2/gh/xavierserena/aja-tutorials/HEAD?filepath=lesson-2.ipynb
 - Lesson 3 (Logic and Flow): https://mybinder.org/v2/gh/xavierserena/aja-tutorials/HEAD?filepath=lesson-3.ipynb
 - Lesson 4 (Problem Solving): https://mybinder.org/v2/gh/xavierserena/aja-tutorials/HEAD?filepath=lesson-4.ipynb
+- Lesson 5 (Debugging): https://mybinder.org/v2/gh/xavierserena/aja-tutorials/HEAD?filepath=lesson-5.ipynb
