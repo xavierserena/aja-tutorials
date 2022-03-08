@@ -10,3 +10,7 @@ Google Slides: [Intro to Python & Programming](https://docs.google.com/presentat
 - Lesson 5 (Debugging): https://mybinder.org/v2/gh/xavierserena/aja-tutorials/HEAD?filepath=lesson-5.ipynb
 - Lesson 6 (Classes): https://mybinder.org/v2/gh/xavierserena/aja-tutorials/HEAD?filepath=lesson-6.ipynb
 - Lesson 7 (Project): https://mybinder.org/v2/gh/xavierserena/aja-tutorials/HEAD?filepath=lesson-7.ipynb
+
+Activities:
+
+- Color Names: https://mybinder.org/v2/gh/xavierserena/aja-tutorials/HEAD?filepath=color_names.ipynb or https://tinyurl.com/ajacodecolor
